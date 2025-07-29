@@ -5,4 +5,5 @@ Se trata de un seleccionador aleatorio de nombres, dado una lista de nombres, lo
 Aquí se muestra un ejemplo de como utilizar la página:
 
 
+https://github.com/user-attachments/assets/1a52ab5d-7027-489e-87b8-a5c5a4768265
 
